@@ -1,0 +1,17 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "first backend assignment",
+  "main": "index.js",
+  "author": "Justice Sowah",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
